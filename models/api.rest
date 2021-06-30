@@ -1,0 +1,22 @@
+Get http://localhost/customer/api/models/read.php
+
+
+###
+
+Get http://localhost/customer/api/models/readone.php?id=1
+
+
+###
+
+POST http://localhost/customer/api/models/create.php
+Content-Type: application/json
+
+{
+    
+    "name" : "",
+    "email" : "",
+    "phone" : ,
+    "bio" : "",
+    "job" : "",
+
+}
